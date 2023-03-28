@@ -1,10 +1,10 @@
 module.exports = {
-  
+
   host:'localhost',
-  username:'admin',
-  password:'admin',
+  username:'root',
+  password:'',
   database:'nodeauth',
-  dialect:'postgres',
+  dialect:'mysql',
   operatorsAliases:false,
   logging:false,
   define:{
